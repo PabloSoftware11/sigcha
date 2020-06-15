@@ -1,0 +1,7 @@
+C:\Users\b-boy andy\source\repos\ASPLOGIN\DatosAcceso\bin\Debug\DatosAcceso.dll.config
+C:\Users\b-boy andy\source\repos\ASPLOGIN\DatosAcceso\bin\Debug\DatosAcceso.dll
+C:\Users\b-boy andy\source\repos\ASPLOGIN\DatosAcceso\bin\Debug\DatosAcceso.pdb
+C:\Users\b-boy andy\source\repos\ASPLOGIN\DatosAcceso\obj\Debug\DatosAcceso.csprojAssemblyReference.cache
+C:\Users\b-boy andy\source\repos\ASPLOGIN\DatosAcceso\obj\Debug\DatosAcceso.csproj.CoreCompileInputs.cache
+C:\Users\b-boy andy\source\repos\ASPLOGIN\DatosAcceso\obj\Debug\DatosAcceso.dll
+C:\Users\b-boy andy\source\repos\ASPLOGIN\DatosAcceso\obj\Debug\DatosAcceso.pdb

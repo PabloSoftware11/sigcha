@@ -1,0 +1,10 @@
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\bin\Debug\LogicaNego.dll
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\bin\Debug\LogicaNego.pdb
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\bin\Debug\DatosAcceso.dll
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\bin\Debug\DatosAcceso.pdb
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\bin\Debug\DatosAcceso.dll.config
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\obj\Debug\LogicaNego.csprojAssemblyReference.cache
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\obj\Debug\LogicaNego.csproj.CoreCompileInputs.cache
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\obj\Debug\LogicaNego.csproj.CopyComplete
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\obj\Debug\LogicaNego.dll
+C:\Users\b-boy andy\source\repos\ASPLOGIN\LogicaNego\obj\Debug\LogicaNego.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PABLO" Class="DBloginDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=PABLO;Integrated Security=True" SettingsObjectName="DatosAcceso.Properties.Settings" SettingsPropertyName="PABLOConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TBL_USUARIO" Member="TBL_USUARIOs">
+    <Type Name="TBL_USUARIO">
+      <Column Name="ID_USU" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="USU_NOMBRE" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="USU_EMAIL" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="USU_PASSWORD" Type="System.String" DbType="NChar(170)" CanBeNull="true" />
+      <Column Name="USU_STATUS" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
